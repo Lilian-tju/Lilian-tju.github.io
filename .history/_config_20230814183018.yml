@@ -1,21 +1,21 @@
-title: Lilian's Homepage
+title: Hanlin Cai
 # tagline: Two roads diverged in woods, I took the one less traveled by.
 description: Two roads diverged in woods, I took the one less traveled by.
 #Comment out url when working locally to resolve base urls correctly
-url: https://Lilian-tju.github.io
+url: https://caihanlin.com
 
 # Owner/author information
 owner:
-  name: Lilian
-  avatar: lilian.jpg
+  name: Hanlin Cai
+  avatar: hanlin.jpg
 #  bio:
-  email: wliyan_2021@tju.edu.cn
+  email: hanlin.cai@ieee.org
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  # twitter: lancecai2002
+  twitter: lancecai2002
   # facebook: caihanlin2002
-  github: Lilian-tju
-  # linkedin: hanlincai
-  # scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
+  github: GuangLun2000
+  linkedin: hanlincai
+  scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
   # instagram: lancecai2002
   # lastfm:
   # tumblr:
@@ -40,6 +40,8 @@ links:
     url: /publications/
   - title: Awards
     url: /awards/
+  - title: Fundings
+    url: /fundings/
   - title: Hobbies
     url: /hobbies/
   - title: Blogs
