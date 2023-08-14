@@ -6,39 +6,38 @@ title: Blogs
 
 ## Chinese Blogs
 
-### 2023
+### 生信文章阅读笔记
 
-- [关于数学建模竞赛](https://caihanlin.com/blogs/team2023)
-- [极简风个人网站搭建指南](https://caihanlin.com/blogs/web)
+- [生物背景](https://caihanlin.com/blogs/team2023)
+- [Net Motif](https://caihanlin.com/blogs/web)
+- [Sequence Motif](https://caihanlin.com/blogs/web)
+- [药物预测](https://caihanlin.com/blogs/web)
+- [影像组学](https://caihanlin.com/blogs/web)
+### 金属材料的裂纹识别
 
-### 2022
+- [裂纹识别](https://caihanlin.com/blogs/20yrs)<br>
+- [图象识别](https://caihanlin.com/blogs/cambridge/)<br>
 
-- [20岁，宽心且看月中桂](https://caihanlin.com/blogs/20yrs)<br>
-- [Cambridge 线上暑研回忆录](https://caihanlin.com/blogs/cambridge/)<br>
-- [暂停、暂停、暂停](https://caihanlin.com/blogs/stop/)
+### web开发技术
 
-### 2021
+- [基础知识](https://caihanlin.com/blogs/19yrs)<br>
 
-- [19岁，山高路亦远](https://caihanlin.com/blogs/19yrs)<br>
-- [星野学社实习回忆录](https://caihanlin.com/blogs/star)
+### 模型实战练习
 
-### 2020
+- [数据清洗预处理](https://caihanlin.com/blogs/18yrs)<br>
+- [网络模型](https://mieclance.club/)
 
-- [18岁，缓慢受锤的黄金年代](https://caihanlin.com/blogs/18yrs)<br>
-- [本科博客，笔记，回忆录](https://mieclance.club/)
+### Manjaro-Linux操作
+
+- [关于manjaro的一些操作](https://caihanlin.com/blogs/18yrs)<br>
+- [基础手册以及曾遇到的问题](https://mieclance.club/)
+
+### 组会文献分享PPT
+*生命不息，奋斗不止，组会，加油！*
+
+- [2023](https://caihanlin.com/blogs/18yrs)<br>
+- [2022](https://caihanlin.com/blogs/18yrs)<br>
+- [2021](https://caihanlin.com/blogs/18yrs)<br>
+
 
 <br>
-
-## Leave a Message
-
-<br>
-
-{% include disqus.html %} 
-
-<br>
-
-## Web Star History
-
-[Leave a star if you like it 🥰](https://github.com/GuangLun2000/GuangLun2000.github.io)
-
-<iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://star-history.com/embed?secret=Z2l0aHViX3BhdF8xMUFSVkxCRUEwRlRZMjQzb2pDZEs2X01kWFJ3V1BSTkdDV3pnREZNd2VTNmtUWDhlaWVWSzBhdXdzbTRhdzc0UlhXQzdJV1FDTGlrM204amMz#GuangLun2000/GuangLun2000.github.io&Date" frameBorder="0"></iframe>
