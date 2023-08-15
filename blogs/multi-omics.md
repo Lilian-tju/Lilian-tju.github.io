@@ -8,7 +8,9 @@ title: multi-omics
 
 ### 文章阅读笔记
 
-- [Customics：一种基于深度学习的多组学集成策略](https://Lilian-tju.github.io/blogs/multi-omics)
-
+- [A Variational Information Bottleneck Approach to Multi-Omics Data Integration](https://Lilian-tju.github.io/blogs/VAE-omics)
+- [AggMapNet：使用特征聚合的多通道网络增强和可解释的低样本组学深度学习 ](https://Lilian-tju.github.io/blogs/AggMapNet)
+- [iSOM-GSN：一种通过自组织图将多组学数据转化为基因相似性网络的综合方法](https://Lilian-tju.github.io/blogs/iSOM-GSN)
+- [Customics：一种基于深度学习的多组学集成策略](https://Lilian-tju.github.io/blogs/Customics)
 
 <br>

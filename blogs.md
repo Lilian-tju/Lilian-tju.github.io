@@ -4,19 +4,17 @@ permalink: /blogs/index.html
 title: Blogs
 ---
 
-## Chinese Blogs
+## 中文博客及汇报记录
 
 ### 生信文章阅读笔记
 
-- [生物背景](https://Lilian-tju.github.io/blogs/multi-omics)
-- [Net Motif](https://caihanlin.com/blogs/web)
-- [Sequence Motif](https://caihanlin.com/blogs/web)
-- [药物预测](https://caihanlin.com/blogs/web)
-- [影像组学](https://caihanlin.com/blogs/web)
+- [多组学](https://Lilian-tju.github.io/blogs/multi-omics)
+- [Net Motif & Sequence Motif](https://Lilian-tju.github.io/blogs/motif)
+- [药物预测](https://Lilian-tju.github.io/blogs/Drug)
+- 影像组学: [标注工具及软件](https://Lilian-tju.github.io/blogs/reports/低剂量胸部CT三维肺癌筛查.pdf)， [相关paper阅读笔记](https://Lilian-tju.github.io/blogs/reports/20230427影像组学.pdf)
 ### 金属材料的裂纹识别
 
-- [裂纹识别](https://caihanlin.com/blogs/20yrs)<br>
-- [图象识别](https://caihanlin.com/blogs/cambridge/)<br>
+- [裂纹识别 & 图像识别](https://caihanlin.com/blogs/20yrs)<br>
 
 ### web开发技术
 
