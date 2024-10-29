@@ -4,11 +4,11 @@ layout: page
 
 # About Me
 <br>
-<img src="https://Lilian-tju.github.io/lilian.jpg" class="floatpic" width="360" height="480" align='right'>
+<img src="https://kawally.github.io/lilian.jpg" class="floatpic" width="360" height="480" align='right'>
 
-Here is **Lilian ([Liyan Wang](https://Lilian-tju.github.io/CV.pdf))**.
+Here is **Lilian ([Liyan Wang](https://kawally.github.io/CV.pdf))**.
 <br>
-I am a student at Tianjin University, actively engaged in research on **deep learning, bioinformatics, and multi-omics analysis for cancer**. Currently, I am pursing a master degree in bioinformatics, advised by [Prof. Kai Song](https://www.researchgate.net/profile/Kai-Song-9). Here is [my CV](https://Lilian-tju.github.io/CV.pdf).
+I am a student at Tianjin University, actively engaged in research on **deep learning, bioinformatics, and multi-omics analysis for cancer**. Currently, I am pursing a master degree in bioinformatics, advised by [Prof. Kai Song](https://www.researchgate.net/profile/Kai-Song-9). Here is [my CV](https://kawally.github.io/CV.pdf).
 
 <br>
 
